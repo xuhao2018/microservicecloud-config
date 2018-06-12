@@ -77,7 +77,7 @@ spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource    #当前数据源类型
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.199.129:3306/springcloud_test?characterEncoding=utf8
+    url: jdbc:mysql://192.168.199.129:3306/springcloud_test_8002?characterEncoding=utf8
     username: root
     password: Xh2018//
     dbcp2:
